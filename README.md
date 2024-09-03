@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Sahil Bhalekar
 
 **Location:** Powai, Mumbai, India  
-**Education:** MCA (Pursuing) - Mumbai University, B.Sc. IT - Mumbai University  
+**Education:** MCA - Mumbai University, B.Sc. IT - Mumbai University  
 **Interests:** Web Development, Chess, Cricket  
 
 ---
